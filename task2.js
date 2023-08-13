@@ -5,6 +5,7 @@ function matchFinder(string1, string2) {
     } else {
         return false;
     }
+
 }
 const string1 = 'Peter Parker';
 const string2 = 'Code';
