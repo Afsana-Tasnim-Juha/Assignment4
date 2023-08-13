@@ -1,8 +1,8 @@
 function findAddress(obj) {
     var address = {
-        street: obj.street || '_ _ ',
-        house: obj.house || '_ _ ',
-        society: obj.society || '_ _ '
+        street: obj.street || '__',
+        house: obj.house || '__',
+        society: obj.society || '__'
     }
     return address;
 
